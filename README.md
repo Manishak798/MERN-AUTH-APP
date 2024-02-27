@@ -13,11 +13,11 @@ A Full-stack Authentication App built with the MERN stack (MongoDB, Express, Rea
 - **Email Verification**: Verify user email addresses during registration.
 - **Express Middleware**: Middleware for handling requests and authentication.
 - **Zustand Store**: State management with Zustand for React applications.
-- **Axios for HTTP Requests**: Simplified HTTP client for making requests from the frontend.
+- **Axios for HTTP Requests**: Simplified HTTP client for requests from the front end.
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React.js, React Router DOM, Axios
+- **Frontend**: React.js, React Router DOM, Axios, Formik, Toaster, Tailwind CSS
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **State Management**: Zustand
