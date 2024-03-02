@@ -18,9 +18,9 @@ A Full-stack Authentication App built with the MERN stack (MongoDB, Express, Rea
 ## 🛠️ Tech Stack
 
 - **Frontend**: React.js, React Router DOM, Axios, Formik, Toaster, Tailwind CSS
-- **Backend**: Node.js, Express.js
+- **Backend**: Node.js, Express.js, APIs
 - **Database**: MongoDB
-- **State Management**: Zustand
+- **State Management**: Zustand, React Hooks
 - **Authentication**: JWT
 
 ## 📦 Installation
