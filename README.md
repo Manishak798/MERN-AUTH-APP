@@ -1,5 +1,5 @@
 
-# 🛡️ MERN Auth App
+# 🛡️ MERN Auth App 🔐
 
 A Full-stack Authentication App built with the MERN stack (MongoDB, Express, React, Node.js), incorporating JWT authentication, React Router DOM, Express middleware, Zustand store, Axios for HTTP requests, and various features including protected routes, password verification, user validation, OTP verification, email verification, and more.
 
