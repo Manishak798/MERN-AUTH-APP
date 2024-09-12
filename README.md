@@ -54,7 +54,7 @@ A Full-stack Authentication App built with the MERN stack (MongoDB, Express, Rea
 
 5. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-## 🤝 Contributing
+## 🤝 Contributing 🤝🏻
 
 Contributions are welcome! Please follow the [Contribution Guidelines](CONTRIBUTING.md).
 
